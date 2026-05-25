@@ -1,9 +1,10 @@
 {
+  "version": "cubari+e:1",
   "title": "Here She is, the Saint in Japan.",
   "description": "She was supposed to have been summoned as a saintess, but instead got thrown into a country called Japan. Alexandra Ollier, a.k.a. \"Rei Natsukawa\", hides her magical powers and works as an office worker for a small company in modern Japan. \"As long as I can live peacefully and uneventfully, this is fine.\" says Rei, who faces many small troubles standing in the way of her lifestyle.",
   "artist": "Shinae Mana",
   "author": "Shuu (守雨)",
-  "cover": "https://i.ibb.co/nsP4MwRk/4c1cf49b-9308-4896-a9ea-c3ad4845c050.jpg",
+  "cover": "https://i.ibb.co/wFbFhhGm/cover-4.jpg",
   "chapters": {
     "1": {
       "title": "Natsukawa Rei",
@@ -465,6 +466,65 @@
           "https://i.ibb.co/67jvD5Z5/34.jpg",
           "https://i.ibb.co/1JTWt4bM/55.jpg",
           "https://i.ibb.co/1NS6LsK/60.jpg"
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "credited": {
+      "authors": [
+        {
+          "name": "Shuu (守雨)",
+          "links": [
+            "https://x.com/shuu_narou"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "name": "Shinae Mana",
+          "links": [
+            "https://x.com/shinae_mana"
+          ]
+        }
+      ]
+    },
+    "outlinks": [
+      "https://mangupdates.com/series/o3akdtk",
+      "https://www.anime-planet.com/manga/seijo-wa-tokku-ni-shoukansareteiru-nihon-ni",
+      "https://anilist.co/manga/163775",
+      "https://kitsu.app/manga/68222",
+      "https://myanimelist.net/manga/157802",
+      "https://novelupdates.com/series/seijo-wa-tokkuni-shokan-sa-rete-iru-nihon-ni",
+      "https://youngchampion.jp/series/d2adaa2d5246f",
+      "https://bookwalker.jp/series/431874",
+      "https://www.amazon.co.jp/dp/B0FFZRBZ6N",
+      "https://ebookjapan.yahoo.co.jp/books/787241"
+    ],
+    "volumes": {
+      "1": {
+        "covers": [
+          "https://i.ibb.co/7NgT4ycy/cover-1.jpg"
+        ]
+      },
+      "2": {
+        "covers": [
+          "https://i.ibb.co/20JHp2C8/cover-2.jpg"
+        ]
+      },
+      "3": {
+        "covers": [
+          "https://i.ibb.co/rfyzHRGp/cover-3.jpg"
+        ]
+      },
+      "4": {
+        "covers": [
+          "https://i.ibb.co/wFbFhhGm/cover-4.jpg"
+        ]
+      },
+      "5": {
+        "covers": [
+          "https://i.ibb.co/9HmD0QN3/cover-5.jpg"
         ]
       }
     }
