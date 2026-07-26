@@ -4,7 +4,7 @@
   "description": "I reincarnated as the \"Villainess Eumiella\" from an RPG Otome game. In the main story, Eumiella is merely a side character, but after the ending, she re-enters the story as the Hidden Boss, a character boasting high stats on par with the heroes! Lighting a fire in my gamer's soul, and taking advantage of being left on my own in my parent's territory, I trained, trained, and trained! As a result of my training... by the time I enrolled in the academy, I managed to reach level 99. Though I had planned to live out my days as inconspicuously and peacefully as possible, soon after entering the school, I'm suspected by the Heroine and Love Interests of being the \"Demon Lord\"...?",
   "author": "Tanabata Satori",
   "artist": "Nokomi (のこみ)",
-  "cover": "https://i.ibb.co/VY7c28wM/cover-5.jpg",
+  "cover": "https://i.ibb.co/9HPdD645/cover-06.jpg",
   "chapters": {
     "0": {
       "title": "",
@@ -1186,8 +1186,8 @@
     },
     "25.1": {
       "title": "",
-      "volume": "",
-      "last_updated": "1776442309",
+      "volume": "5",
+      "last_updated": "1785080117",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/vxXTJvKT/01.jpg",
@@ -1216,8 +1216,8 @@
     },
     "25.2": {
       "title": "",
-      "volume": "",
-      "last_updated": "1782839144",
+      "volume": "5",
+      "last_updated": "1785080118",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/XBRbVKm/01.jpg",
@@ -1241,8 +1241,8 @@
     },
     "25.3": {
       "title": "",
-      "volume": "",
-      "last_updated": "1782846468",
+      "volume": "5",
+      "last_updated": "1785080120",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/SDYLr4Rc/01.jpg",
@@ -1326,6 +1326,11 @@
       "5": {
         "covers": [
           "https://i.ibb.co/VY7c28wM/cover-5.jpg"
+        ]
+      },
+      "6": {
+        "covers": [
+          "https://i.ibb.co/9HPdD645/cover-06.jpg"
         ]
       }
     }
