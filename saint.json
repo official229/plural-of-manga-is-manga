@@ -2,8 +2,8 @@
   "version": "cubari+e:1",
   "title": "Here She is, the Saint in Japan.",
   "description": "She was supposed to have been summoned as a saintess, but instead got thrown into a country called Japan. Alexandra Ollier, a.k.a. \"Rei Natsukawa\", hides her magical powers and works as an office worker for a small company in modern Japan. \"As long as I can live peacefully and uneventfully, this is fine.\" says Rei, who faces many small troubles standing in the way of her lifestyle.",
-  "artist": "Shinae Mana",
   "author": "Shuu (守雨)",
+  "artist": "Shinae Mana",
   "cover": "https://i.ibb.co/27XJqcRN/cover-6.jpg",
   "chapters": {
     "1": {
@@ -471,8 +471,8 @@
     },
     "12": {
       "title": "Tearing Apart",
-      "volume": "2",
-      "last_updated": "1780227591",
+      "volume": "3",
+      "last_updated": "1789892478",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/Y79Lyw5B/01.jpg",
@@ -516,6 +516,44 @@
           "https://i.ibb.co/ksmTBXw9/40.jpg",
           "https://i.ibb.co/m54cySvp/55.jpg",
           "https://i.ibb.co/cXTb2yWz/60.jpg"
+        ]
+      }
+    },
+    "13": {
+      "title": "Full Power Release",
+      "volume": "3",
+      "last_updated": "1789892503",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/F4WRxdFd/01.jpg",
+          "https://i.ibb.co/Df94ZFY9/02.jpg",
+          "https://i.ibb.co/YTN37GGp/03.jpg",
+          "https://i.ibb.co/F4cfqwqd/04.jpg",
+          "https://i.ibb.co/gbcdCwHq/05.jpg",
+          "https://i.ibb.co/hxXFB6Ht/06.jpg",
+          "https://i.ibb.co/spw7bJ1F/07.jpg",
+          "https://i.ibb.co/hqqfN4n/08.jpg",
+          "https://i.ibb.co/QvtN3WtB/09.jpg",
+          "https://i.ibb.co/BbfSSXd/10.jpg",
+          "https://i.ibb.co/1f8ghR3K/11.jpg",
+          "https://i.ibb.co/1JR3Gzks/12.jpg",
+          "https://i.ibb.co/WvRjR3St/13.jpg",
+          "https://i.ibb.co/7t9jtvz7/15.jpg",
+          "https://i.ibb.co/jZRH9TPw/16.jpg",
+          "https://i.ibb.co/BHM5qfbt/17.jpg",
+          "https://i.ibb.co/Y73STJd1/18.jpg",
+          "https://i.ibb.co/0jmnP9nf/19.jpg",
+          "https://i.ibb.co/zTtF6DJP/20.jpg",
+          "https://i.ibb.co/7tghBrYh/21.jpg",
+          "https://i.ibb.co/1YGDQf7W/22.jpg",
+          "https://i.ibb.co/k2mJhXw5/23.jpg",
+          "https://i.ibb.co/4RVZR7nM/24.jpg",
+          "https://i.ibb.co/zVfjZkVH/25.jpg",
+          "https://i.ibb.co/1tSHRMNM/26.jpg",
+          "https://i.ibb.co/9916CVBs/27.jpg",
+          "https://i.ibb.co/GvdHG5Wz/28.jpg",
+          "https://i.ibb.co/hxBDXmyB/55.jpg",
+          "https://i.ibb.co/x93nGjx/60.jpg"
         ]
       }
     }
